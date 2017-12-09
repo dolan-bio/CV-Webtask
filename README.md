@@ -1,3 +1,3 @@
-# Experience Webtask
+# CV Webtask
 
-> Tool to fetch experience from google images and return images
+> Tool to generate my CV
